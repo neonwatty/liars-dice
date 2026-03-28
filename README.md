@@ -2,6 +2,8 @@
 
 A native watchOS app that provides real-time probability calculations for Liar's Dice gameplay. Quickly assess bid probabilities and make informed decisions right from your wrist.
 
+> **Read the full write-up:** [A watchOS App for Liars Dice: Probability Calculator for Apple Watch](https://neonwatty.com/posts/liars-dice-apple-watch-app/) — the motivation, design, and math behind the app.
+
 ## Screenshots
 
 <table>
